@@ -59,7 +59,7 @@ The Gold layer is the business level data representation, structured to support 
 
 ---
 
-### 2. gold.fact_sales
+### 3. gold.fact_sales
 
 - **Purpose:** Stores transactional sales data for analytical purposes.
 - **Columns:**
