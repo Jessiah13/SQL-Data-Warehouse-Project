@@ -2,7 +2,7 @@
 
 Welcome to my  SQL Server Data Warehouse Project Repository! <br>
 This Portfolio project is my first attempt of Building a modern data warehouse with SQL Sever, including ETL processes, data modeling and analytics.<br>
-As the lines of Data professionals continue to be blurred, I Very exited to to demonstrate the industry best practices and explore the world of Data Engeneering.
+As the lines of Data professionals continue to be blurred, I'm Very exited to demonstrate the industry best practices and explore the world of Data Engeneering.
 ***
 
 
